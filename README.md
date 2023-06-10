@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **gbatra145@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1opaRNXhoCqxcXlIDr80Lk9MHUvn2ivjY/view?usp=drivesdk](https://drive.google.com/file/d/1opaRNXhoCqxcXlIDr80Lk9MHUvn2ivjY/view?usp=drivesdk)
 
 - ⚡ Fun fact **I know much deep in you**
 
