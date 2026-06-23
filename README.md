@@ -4,18 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-c7c7be6ba65b069c10ac70c8fdc2c51a">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvitbatra02&label=Profile%20views&color=0e75b6&style=flat" alt="garvitbatra02" /> </p>
 
-- 🔭 I’m currently working on **Capture The Venture**
 
-- 🌱 I’m currently learning **NextJS**
+- 👨‍💻 All of my projects are available at https://garvitbatra.com
 
-- 👨‍💻 All of my projects are available at [https://portfolio-garvitbatra.netlify.app/](https://portfolio-garvitbatra.netlify.app/)
-
-- 💬 Ask me about **React, Next JS, Problem Solving**
+- 💬 Ask me about **Big Scale Systems, AI Core, Competitive Programming**
 
 - 📫 How to reach me **gbatra145@gmail.com**
 
 
-- ⚡ Fun fact **I know much deep in you**
+- ⚡ Fun fact **I have worked in AI since it was baby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
